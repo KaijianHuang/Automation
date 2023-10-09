@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测量Kp", "测量Kp\测量Kp.csproj", "{1B8112F2-A08B-433F-A155-CB7552AD225E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测量基于基准Kp的模型", "..\测量基于基准Kp的模型\测量基于基准Kp的模型\测量基于基准Kp的模型.csproj", "{E4AC47F5-6A4C-42B3-A32D-7D1DEA1FCB3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8112F2-A08B-433F-A155-CB7552AD225E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8112F2-A08B-433F-A155-CB7552AD225E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8112F2-A08B-433F-A155-CB7552AD225E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8112F2-A08B-433F-A155-CB7552AD225E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AC47F5-6A4C-42B3-A32D-7D1DEA1FCB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AC47F5-6A4C-42B3-A32D-7D1DEA1FCB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AC47F5-6A4C-42B3-A32D-7D1DEA1FCB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AC47F5-6A4C-42B3-A32D-7D1DEA1FCB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD49EFB9-8B3F-42C4-B6F4-7525DAAC2333}
+	EndGlobalSection
+EndGlobal
